@@ -49,10 +49,10 @@ Circular Interpolation
 ![OUTPUT](Program.PNG)
 
 ### Linear Interpolation
-![OUTPUT](./Final%20Program%20Linear.PNG)
+![OUTPUT](./out2.PNG)
 
 ### Circular Interpolation
-![OUTPUT](./Final%20Program%20Linear.PNG)
+![OUTPUT](./out1.PNG)
 
 
 ## Result
